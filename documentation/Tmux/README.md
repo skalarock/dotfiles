@@ -83,7 +83,7 @@ find plugin directory there and remove it.
 
 ##### Docs
 
-- [Help, tpm not working](docs/tpm_not_working.md) - problem solutions
+- [Help, tpm not working](https://github.com/tmux-plugins/tpm) - problem solutions
 
 #### Fix font issues
 
